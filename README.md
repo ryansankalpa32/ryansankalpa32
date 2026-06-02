@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ryan Sankalpa
+# Hi 👋, I'm Ryan Rathnayake
 
 ## About Me
 🎓 BSc Software Engineering Student
