@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ryan Rathnayake
 
 ## About Me
-🎓 BSc Software Engineering Student
+🎓 BSc Information Technology Student
 
 💻 Full-Stack Web Developer
 
