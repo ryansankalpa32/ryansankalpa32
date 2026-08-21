@@ -1,24 +1,17 @@
-# Hi 👋, I'm Ryan Rathnayake
+# Hi, I'm Ryan Rathnayake👋
 
-## About Me
-    🎓 BSc Information Technology Student
+🎓 Information Technology Undergraduate
 
-    💻 Full-Stack Web Developer
+💻 Passionate about software development and building useful applications.
 
-    🌱 Currently learning Next.js and Cloud Computing
+🌱 Currently learning, building projects, and improving my development skills.
 
-    🚀 Interested in Web Development and AI
-
+🚀 I enjoy exploring new ideas, solving problems, and working on real-world projects.
 
 
-## Projects
-### Ticket Booking System
-    A web-based ticket booking platform.
+## 📫 Connect With Me
 
-### Community Learning Platform
-    An online learning community platform.
+* GitHub: `ryansankalpa32`
+* LinkedIn: `https://www.linkedin.com/in/ryan-rathnayake-1405ab305/`
 
-## Contact
-    📧 ryan.sankalpa@gmail.com
-
-    💼 LinkedIn: https://www.linkedin.com/in/ryan-rathnayake-1405ab305/
+⭐ Thanks for visiting my profile!
